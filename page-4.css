@@ -215,6 +215,9 @@ nav li {
         margin-top: 25px;
         border-radius: 12px;
     }
+    .menu-container img {
+        display: block;
+    }
     .menu-title {
         font-size: 2rem;
         margin-bottom: 20px;
